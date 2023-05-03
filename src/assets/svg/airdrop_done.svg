@@ -1,0 +1,21 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="33" height="33" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_87294" data-name="Group 87294" transform="translate(-163 -424)">
+      <text id="swap" transform="translate(211 429)" fill="#8f2ffd" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.024em"><tspan x="0" y="17">Swap</tspan></text>
+      <g id="Group_66007" data-name="Group 66007" transform="translate(163 424)">
+        <g id="دکمه_هاور" data-name="دکمه هاور">
+          <g id="Rectangle_35679" data-name="Rectangle 35679" fill="#f6509c" stroke="#f7f8fa" stroke-width="1">
+            <rect width="33" height="33" rx="12" stroke="none"/>
+            <rect x="0.5" y="0.5" width="32" height="32" rx="11.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Check" d="M21.116,8.025a.938.938,0,0,1,0,1.327l-8.759,8.759a.938.938,0,0,1-1.327,0l-5-5a.938.938,0,0,1,1.327-1.327l4.341,4.341,8.1-8.1A.938.938,0,0,1,21.116,8.025Z" transform="translate(166.963 427.409)" fill="#fff" stroke="#fff" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

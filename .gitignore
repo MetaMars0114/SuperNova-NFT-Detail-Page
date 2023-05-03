@@ -1,0 +1,10 @@
+node_modules
+coverage
+build
+docs
+.DS_Store
+dist
+/**/build
+.vscode
+services
+/src/hooks/useChainList.ts
